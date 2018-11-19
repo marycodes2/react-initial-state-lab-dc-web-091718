@@ -1,3 +1,4 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ImageSlider from './ImageSlider';
@@ -10,3 +11,6 @@ ReactDOM.render(
   </div>,
   document.getElementById('root')
 );
+
+
+// ReactDOM.render(<Matrix values={pattern1} />, document.getElementById('root'));
